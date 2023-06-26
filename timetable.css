@@ -1,0 +1,81 @@
+h1 {
+    color: blacks;
+    text-align: center;
+}
+
+h2 {
+    color: blueviolet;
+    text-align: center;
+}
+
+.day {
+    color: brown;
+    background-color: black;
+    text-align: justify;
+}
+
+.time {
+    color: blue;
+    background-color: antiquewhite;
+}
+
+footer {
+    text-align: center;
+    color: royalblue;
+    font-size: large;
+}
+
+.A {
+    color: chocolate;
+    background-color: red;
+}
+
+.B {
+    color: yellowgreen;
+    background-color: black;
+}
+
+.U {
+    color: pink;
+    background-color: orange;
+}
+
+.A1 {
+    color: crimson;
+    background-color: peachpuff;
+}
+
+.A2 {
+    color: coral;
+    background-color: brown;
+}
+
+.A3 {
+    color: blueviolet;
+    background-color: antiquewhite;
+}
+
+.A4 {
+    color: green;
+    background-color: orangered;
+}
+
+.A5 {
+    color: wheat;
+    background-color: green;
+}
+
+.A6 {
+    color: gold;
+    background-color: olivedrab;
+}
+
+.A7 {
+    color: black;
+    background-color: blueviolet;
+}
+
+.M {
+    color: goldenrod;
+    background-color: blue;
+}
